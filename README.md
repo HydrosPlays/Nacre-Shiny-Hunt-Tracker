@@ -1,4 +1,8 @@
-# 🐚 Nacre — Pokémon Shiny Hunt Tracker & OBS Overlay
+<p align="center">
+  <img src="nacre-shiny-tracker.png" width="350" alt="Nacre logo">
+</p>
+
+# Nacre — Pokémon Shiny Hunt Tracker & OBS Overlay
 
 <p>
   <img src="https://img.shields.io/badge/License-GPLv3-green?style=flat" alt="License: GPLv3">
