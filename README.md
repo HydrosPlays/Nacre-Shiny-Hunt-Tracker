@@ -1,5 +1,12 @@
 # 🐚 Nacre — Pokémon Shiny Hunt Tracker & OBS Overlay
 
+<p>
+  <img src="https://img.shields.io/badge/License-GPLv3-green?style=flat" alt="License: GPLv3">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=flat" alt="Platform: Windows 10 | 11">
+  <img src="https://img.shields.io/github/v/release/HydrosPlays/Nacre-Shiny-Hunt-Tracker?include_prereleases&style=flat&label=Version&color=orange" alt="Latest version">
+  <a href="https://github.com/HydrosPlays/Nacre-Shiny-Hunt-Tracker/releases"><img src="https://img.shields.io/github/downloads/HydrosPlays/Nacre-Shiny-Hunt-Tracker/total?style=flat&label=Downloads&color=purple" alt="Total downloads"></a>
+</p>
+
 Nacre turns the long grind of a shiny hunt into something you can put on stream —
 an animated, Pokémon-themed **OBS overlay** and a **Pokédex-style control panel**, driven
 by your **Stream Deck**. Like mother-of-pearl, every hunt builds layer by layer until you
