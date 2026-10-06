@@ -1,9 +1,7 @@
 <p align="center">
   <img src="nacre-shiny-tracker.png" width="350" alt="Nacre logo">
 </p>
-
-# Nacre Pokémon Shiny Hunt Tracker & OBS Overlay
-
+<h1 align="center">Nacre Pokémon Shiny Hunt Tracker & OBS Overlay</h1>
 <p>
   <img src="https://img.shields.io/badge/License-GPLv3-green?style=flat" alt="License: GPLv3">
   <img src="https://img.shields.io/github/v/release/HydrosPlays/Nacre-Shiny-Hunt-Tracker?include_prereleases&style=flat&label=Version&color=orange" alt="Latest version">
